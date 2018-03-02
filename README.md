@@ -7,6 +7,6 @@ Ação click  floatingButton
 
 Ação ao descer o scroll/clicar a tela.
 
-![gif](https://user-images.githubusercontent.com/11597881/36861014-9e289892-1d61-11e8-918d-782988559e85.gif)
+![gif](https://user-images.githubusercontent.com/11597881/36897606-0f519d90-1df6-11e8-8ad8-daa664f096f8.gif)
 
 
